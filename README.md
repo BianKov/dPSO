@@ -26,7 +26,5 @@ listázni, mi micsoda
 
 # Reference
 arXiv:2108.03328 [physics.soc-ph]
-#"B. Kovács and G. Palla, *Optimisation of the coalescent hyperbolic embedding of complex networks*, Scientific Reports, 2021"
-#" <https://www.nature.com/articles/s41598-021-87333-5> "
 
 For any problem, please contact Bianka Kovács: <bianka.kovacs@ttk.elte.hu>
