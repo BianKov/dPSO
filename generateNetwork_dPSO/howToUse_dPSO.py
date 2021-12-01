@@ -124,9 +124,9 @@ for g in range(numOfGraphs):
 
     #generate and save the given graph and the node coordinates:
     [Rlist,GraphList,radialCoordList,CartCoordList] = dPSO.dPSO(inputParameters=iP,directoryName=directoryName_exList2,numORan='an',isWeighted=False) #the directory named directoryName_exList2 will be created here, if it has not already been created
-    #if numORan is 'num', then the cutoff distance R of the connection probability is calculated for each node by solving numerically Equation (S2.9) of the Supplementary Information, which expresses that the expected number of nodes connecting to the new node at its arrival is equal to m
-    #if numORan is 'an', then the cutoff distance R of the connection probability is calculated faster, using the approximating formulas given by Equations (S2.11) and (S2.16) of the Supplementary Information
-    #If isWeighted is True, then a weight calculated as 1/(1+hyperbolic distance between the two nodes in question) is assigned to each link at the end of the network growth. Otherwise, no weight is assigned to the links.
+        #if numORan is 'num', then the cutoff distance R of the connection probability is calculated for each node by solving numerically Equation (S2.9) of the Supplementary Information, which expresses that the expected number of nodes connecting to the new node at its arrival is equal to m
+        #if numORan is 'an', then the cutoff distance R of the connection probability is calculated faster, using the approximating formulas given by Equations (S2.11) and (S2.16) of the Supplementary Information
+        #If isWeighted is True, then a weight calculated as 1/(1+hyperbolic distance between the two nodes in question) is assigned to each link at the end of the network growth. Otherwise, no weight is assigned to the links.
     #the list with the cutoff distance of the connection probability in each time step is Rlist[0]
         #Rlist[0][j] is the cutoff distance at the appearance of the jth node (at time j+1)
         #Note that in the case of T=0 Rlist is just an empty list, since it is not needed for the network generation.
