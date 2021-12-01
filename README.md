@@ -1,7 +1,6 @@
 # *d*PSO model
 Code for generating hyperbolic networks of **homogeneous angular node distribution** with the *d*-dimensional popularity-similarity optimisation model.  
 The functions calculating the cutoff distance in the connection probability function are written in Matlab, the rest of the code is written in Python 3.
-A paramétereket igazából felesleges itt is listázni, a cikkben és a kódban is le van írva...
 
 
 # Three-dimensional nPSO model
