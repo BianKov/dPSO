@@ -7,7 +7,7 @@ The functions calculating the cutoff distance in the connection probability func
 
 
 # Three-dimensional nPSO model
-For generating networks based on popularity-similarity optimisation in the 3-dimensional hyperbolic space, using a **mixture of von Mises–Fisher distributions as the angular node distribution**, where denser angular regions can serve as built-in communities.  
+For generating networks based on popularity-similarity optimisation in the **3-dimensional** hyperbolic space, using a **mixture of von Mises–Fisher distributions as the angular node distribution**, where denser angular regions can serve as built-in communities.  
 The functions calculating the cutoff distance in the connection probability function are written in Matlab, the rest of the code is written in Python 3.
 
 
