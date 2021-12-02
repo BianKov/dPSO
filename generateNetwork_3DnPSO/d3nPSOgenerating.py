@@ -44,7 +44,7 @@ def d3nPSO(inputParameters,directoryName,numORan,isWeighted):
         return [Rlist,GraphList,radialCoordList,CartCoordList,angularGroupIDlist]
 
     else:
-        print("Choose 0<=T<1/(d-1) or 1/(d-1)<T!")
+        print("Choose 0<=T<0.5 or 0.5<T!")
 
 
 
