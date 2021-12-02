@@ -25,6 +25,6 @@ The code is written in Python 3.
 
 
 # Reference
-<arXiv:2108.03328 [physics.soc-ph]>
+[arXiv:2108.03328 [physics.soc-ph]](https://arxiv.org/abs/2108.03328)
 
 For any problem, please contact Bianka Kovács: <bianka.kovacs@ttk.elte.hu>
