@@ -12,7 +12,7 @@ The functions calculating the cutoff distance in the connection probability func
 
 
 # *f*PSO model
-For generating **2-dimensional** hyperbolic networks treating **the multiplying factor *f* of the initial radial coordinates as a model parameter**. In contrast to the original 2-dimensional PSO model, in this version degree decay exponents below 2 are also achievable.  
+For generating **2-dimensional** hyperbolic networks, treating **the multiplying factor *f* of the initial radial coordinates as a model parameter**. In contrast to the original 2-dimensional PSO model, in this version degree decay exponents below 2 are also achievable.  
 The code is written in Python 3.
 
 
