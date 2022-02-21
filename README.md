@@ -25,6 +25,6 @@ The code is written in Python 3.
 
 
 # Reference
-[arXiv:2108.03328 [physics.soc-ph]](https://arxiv.org/abs/2108.03328)
+[Kovács, B., Balogh, S.G. & Palla, G. Generalised popularity-similarity optimisation model for growing hyperbolic networks beyond two dimensions. Sci Rep 12, 968 (2022)](https://doi.org/10.1038/s41598-021-04379-1)
 
 For any problem, please contact Bianka Kovács: <bianka.kovacs@ttk.elte.hu>
